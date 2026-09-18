@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Unicode Fold Translator",
+  "version": "1.0",
+  "description": "Translates the text of any webpage into compressed Unicode fold characters.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
