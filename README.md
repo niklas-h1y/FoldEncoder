@@ -4,6 +4,20 @@ A high-efficiency standalone text compressor that packs **three standard charact
 
 ---
 
+## 🚀 Interactive Setup Guides
+
+Choose how you want to experience the Unicode Fold system:
+
+### 1. 📝 Core System (Recommended for Beginners)
+Learn the core logic, integrate the standalone compressed text sheets, and view the raw mathematical architecture.
+👉 **[Read the Manual Code Guide (unicode-fold-encoder.md)](unicode-fold-encoder.md)**
+
+### 2. 🥠 Page Fold Translator (Funny Browser Extension)
+Want to see your encoding loop in action across the whole internet? Install this lightweight browser extension to translate the text nodes of **any website** into your compressed Unicode fold language with a single click!
+👉 **[Read the Extension Setup Guide (extension_setup.md)](extension_setup.md)**
+
+---
+
 ## 🔍 How It Works (The Core System)
 
 The encoder treats standard text characters like digits in a custom **Base-96 number system** and maps the compressed results directly into the **CJK Unified Ideographs** (Chinese characters) Unicode block.
@@ -32,12 +46,4 @@ To reconstruct the original data, the script completely reverses the mathematica
 4. It cleanly trims off any added padding spaces at the very end.
 
 ---
-
-## 🛠️ Usage & Integration
-
-This project is entirely standalone and requires zero external libraries or frameworks. The script structure is built directly into a single HTML text sheet for fast, local deployment.
-
-👉 **[View the Complete Source Code (unicode-fold-encoder.md)](unicode-fold-encoder.md)**
-
----
-*Note: This compressor works entirely locally in your client's web browser cache sandbox. No tracking, no data collection, no network overhead.*
+*Note: This toolkit runs 100% locally within your sandbox browser execution framework. It does not collect, process, or transmit any user data or personal project source files.*
